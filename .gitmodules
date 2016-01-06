@@ -1,3 +1,3 @@
 [submodule "first_sub_mod"]
 	path = first_sub_mod
-	url = /var/www/git_submods/first_sub_mod
+	url = https://github.com/amrt0510/first_sub_mod.git
